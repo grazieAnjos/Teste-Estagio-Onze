@@ -1,0 +1,13 @@
+body{
+  margin: auto;
+  padding-bottom: 0.625rem;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+#root * {
+  font-family: "Gabarito", sans-serif; 
+  font-style: normal;
+}

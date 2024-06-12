@@ -1,0 +1,38 @@
+.Title{
+    line-height: 2.1rem;
+    margin: 0.625rem 0 3.5rem 0;
+    font-size: 1.75rem;
+  }
+  
+  form{
+    margin: 0 6.25rem 0 6.25rem;
+    display: flex;
+    flex-direction: column  ;
+  }
+  
+  .TitleInput{
+    margin-top: 0.625rem;
+  }
+  
+  .form_input{
+   margin-top: 0.625rem;
+   border-radius: 6px;
+   border: 1px solid #D1D5DB;
+   padding: 0.75rem;
+   width: 100%;
+  }
+  
+  hr{
+    width: 100%;
+    border-bottom: 1px solid #E5E7EB;
+    margin: 1rem 0;
+  }
+  
+  textarea.form_input {
+    height: 18rem;
+    resize: vertical;
+  }
+  
+  .TitleOutput{
+    margin: 0.625rem 0 0;
+  }
